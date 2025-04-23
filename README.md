@@ -1,7 +1,4 @@
-# rssandfreeai
-application get feeds and topics from ai 
-
-From channel ex : CNN 
-and translate to arabic 
-
-require : code chatgpt 
+#ِAI FEED AND RSS 
+An application for getting news and topics from website articles
+From a channel, for example: CNN, and translating them into Arabic
+Required: ChatGPT code
